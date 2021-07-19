@@ -8,4 +8,4 @@ Thank you!
 
 git hello again!
 
-make log in blue
+make log in red
